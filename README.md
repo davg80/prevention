@@ -20,6 +20,9 @@ docker compose build
 docker compose down
 ``` 
 
+## Adress server running
+[http://0.0.0.0:8000](http://0.0.0.0:8000) 
+
 # Prevention
 
 The project, codenamed ACP, consists of the development of a SaaS service for training driving professionals.
