@@ -1,3 +1,25 @@
+# Docker
+
+## Create .env
+
+```
+DB_CONNECTION=pgsql
+DB_HOST=localhost
+DB_PORT=5432
+DB_DATABASE=laravel
+DB_USERNAME=postgres
+DB_PASSWORD=postgres 
+``` 
+
+## Build container docker
+``` 
+docker compose build
+``` 
+## Destroy container docker
+``` 
+docker compose down
+``` 
+
 # Prevention
 
 The project, codenamed ACP, consists of the development of a SaaS service for training driving professionals.
